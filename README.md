@@ -1,8 +1,17 @@
 # Docker/Minikube Deployment
 
+This fork is a possible solution to the DevOps challenge seen below or in the original README.md to fix a Python app and its unit testing, 
+
 [Docker/Minikube Deployment README](DEPLOYMENT.md)
 
+My changes are found in [Commit f8a4548](https://github.com/danarchy85/the-real-devops-challenge/commit/f8a45484ad93411f19728f5d7510423c7c6f33bb)
 
+
+ - Dan Heneise
+
+---
+Original Challange
+---
 # The real DevOps challenge
 
 ![Intelygenz](./assets/intelygenz.logo.jpeg)
